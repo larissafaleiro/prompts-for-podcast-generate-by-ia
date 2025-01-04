@@ -1,0 +1,39 @@
+>>> PARA O TÍTULO DO PODCAST:
+Você é um roteirista de podcast, e vamos criar um podcast de viagens, focado em estratégias para viajar barato. Favor criar 10 sugestões de nomes criativos para um podcast, fazendo analogia a algum filme ou série que aborde viagens.
+
+O podcast vai falar sobre dicas de viagens e estratégias para se planejar economizar
+
+{REGRAS}
+
+- O nome deve ser enxuto, um nome e um subtítulo
+- O nome tenha algum trocadilho fazendo analogia a algum filme ou série que aborde viagens, ou com algum ponto turístico famoso.
+
+
+  >>> PARA O ROTEIRO
+
+  Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de viagens, focado em dicas para viajar barato, cujo o nome é "Pela Estrada Afora - Realizando Viagens Incríveis e Econômicas",  com o público alvo jovens viajantes
+
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[TEMA 1]
+[TEMA 2]
+[TEMA 3]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+- no bloco [INTRODUÇÃO] crie uma introdução curta e emblemática, fazendo analogia ao título do podcast
+- no bloco [TEMA 1] forneça dicas de como encontrar passagens baratas
+- no bloco [TEMA 2] explique sobre os programas e milhagem e como eles podem ajudar a reduzir os gastos com passagens aéreas
+- no bloco [TEMA 3] fale sobre reserva de hospedagens, dando dicas de como identificar opções boas e baratas
+- no bloco [FINALIZAÇÃO] substitua por uma despedida descontraída com o final 'Eu sou a Lari e bora viajar por esse mundão'
+- use termos de fácil explicação
+- O podcast vai ser apresentado somente por uma pessoa, chamada Lari
+- O podcast deve ser curto
+- O tom deve ser amigável e descontraído
+- Pode ser utilizados trocadilhos e piadinhas bem humoradas
+
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos
+- Não ultrapasse 5 minutos de duração
